@@ -1,0 +1,99 @@
+Company	SCAC	AverageRevenue	g.mile.CO2	g.mile.NOx	g.mile.PM
+A. Duie Pyle Cos.	PYLE	286714.285714286	1650	5	0.14
+A&R Logistics	ANRI	222078.5	2125	5.75	0.22
+AAA Cooper Transportation	AACT	560955.714285714	1550	6.8	0.3
+Acme Truck Line Inc.	ATEQ	332513.166666667	1570	11	0.3905
+Anderson Trucking Service	ANNN	816355.375	1840	5.8	0.055
+ArcBest	KNIG,KTMW,KNBK,KNIB,KNIM,KTPS	2763338	1480	3.4	0.006
+Arnold Transportation Services	ANTT	237000	1640	3.4	0.006
+Atlas World Group	ALQK	807491.25	1670	14	0.3905
+Averitt Express	AVRT	976544.125	1600	1.55	0.085
+Bennett International Group	BGME	331239.875	1670	5	0.0965
+Bison Transport	BIOS	419524.285714286	1480	0.9	0.026
+Brown Integrated Logistics	BRWH	220482	1540	4.6	0.085
+C.R. England Inc.	ENGI	1259184.875	1225	18.5	0.5
+California Cartage Co.	CCXP	359425	1565	16.5	0.73
+Canada Cartage System	CACG	492388.444444444	1900	6.55	0.195
+Cardinal Logistics management	CHWK	620340	1480	3.4	0.086
+Cassens Transport	CASF	293356.166666667	1957.5	14.45	0.45
+Central Freight Lines	CENT	242477.833333333	1450	5	0.06
+Central Transport International	CTII	728500	1750	3.2	0.06
+Challenger Group	CGFR	303097	1600	1.55	0.015
+Contrans Group	BCFG	427115.8	1970	5	0.0965
+Conway Inc	CNWY	5228477.33333333	1550	5	0.14
+Covenant Transportation Group	CVTH	668063	2250	18.5	0.775
+Cowan Systems	CWAS	339982.875	1560	0.9	0.006
+Crete Carrier Corp.	CRCR	984900.375	1480	3.4	0.006
+CRST International	CRFR	1221953.5	1500	1.55	0.015
+Dart Transit Co.	DART,DARN,DARD	451824.125	1560	3.4	0.026
+Dayton Freight Lines Inc.	DAFG	379658.75	1650	5	0.14
+DHL USA 	DMAL	6586872	1620	8.5	0.275
+Dicom Transportation Group	GOGI	290758	1750	1.4	0.06
+Dynamex Inc	DYXW	301924	1620	8.5	0.275
+Epes Carriers Inc.	EPES	305069.5	1480	3.4	0.046
+Estes Express Lines	EXLA	1761955.375	1600	6.55	0.195
+Evans Network of Cos.	EVTW	385413.5	2040	18.5	0.775
+Falcon Transport Co.	FCNW	217510	1640	4.6	0.115
+FedEx Corp.	ELGS	46583750	1480	0.9	0.006
+Foodliner/Quest Liner	FOLW	264873	1550	3.9	0.055
+Forward Air Corp.	FAFN	721122.875	1600	6.55	0.195
+Frozen Food Express Industries	FRZF	377012.25	1540	4.6	0.115
+Gordon Trucking Inc.	GORK	353500	1640	0.9	0.026
+Greatwide Logistics Services	ATGL	878180.25	1600	9.05	0.195
+Heartland Express Inc.	HAEI	635822	1480	3.4	0.006
+Hirschbach Motor Lines	HIRS	265095.5	1540	2.2	0.055
+Hub Group	HUBG,HHWY	3803843.5	2040	18.5	0.775
+Interstate Distributor Co.	IDCD	386952.714285714	1480	3.4	0.026
+J.B. Hunt Transport Services Inc.	QPMT	5259281.75	1075	16.5	0.44
+Jack Cooper Transport Co.	COOJ	534534.25	2182.5	14.45	0.45
+John Christner Trucking LLC	CJHT	255203	1740	3.4	0.085
+Kenan Advantage Group Inc.	AVTK,BLKE,KAGW,KNTC,NOCP,POCN,DTCH,TRAP,CRYI,KEJB	1155111.25	1750	7.1	0.195
+KLLM Transport Services	KLMI	594727.5	1887.5	3.25	0.041
+Landstar System	LRGR	6393879.5	2460	28.5	1.275
+Lynden Inc.	LTIA	860625	1570	5	0.2435
+Marten Transport Ltd.	MTEN	620792	1675	15.5	0.44
+Martin Transportation Systems	MRLC	240301	1480	3.4	0.026
+Maverick USA Inc.	MAVK	279395.875	1570	2	0.0115
+Melton Truck Lines Inc.	MTLA	252892.5	1670	2	0.0115
+Mercer Transportation Co.	MCET	448383.5	1670	11	0.2435
+Mesilla Valley Transportation	MSLV	352875.125	1480	0.9	0.026
+Milan Express Co.	MLXP	189000	1560	0.9	0.026
+Mullen Group	MULM	492425.75	1800	3.4	0.046
+Navajo Express	NAVE	213333.333333333	1540	2.2	0.055
+NFI	NFIL,NFAV,NFBR,NFCV,NFIA,NFIH,NFIV,NFTG,NAFT,NAFQ,NFIV	1038278.75	1480	0.9	0.026
+Old Dominion Freight Line Inc.	ODFL	2274275.125	1450	3.2	0.14
+OnTrac Inc.	EMSY	391330	1750	1.4	0.06
+P.A.M. Transportation Services Inc.	PAMT	381027.5	1480	0.9	0.006
+Panther Expedited Services	PTWT	196414	1500	4.05	0.085
+Paschall Truck Lines Inc.	PASC	219121.142857143	1560	0.9	0.026
+Penske Logistics	PSKL	1705750	1830	13.5	0.525
+Pitt Ohio Transportation Group	PITD	457641.875	1550	3.2	0.06
+Quality Distribution Inc.	QTKI	794230.5	1887.5	10.15	0.191
+RoadLink	RDLK	335500	1655	16.5	0.53
+Roadrunner Transportation Systems Inc.	RDFS	1296109.5	1830	13.5	0.525
+Roehl Transport Inc.	ROEV	341796.875	1480	0.9	0.026
+Ruan Transportation Management Systems	RLCF,RUAN	780074.25	1600	1.55	0.085
+Saia Inc.	SAIA	1111297.625	1450	5	0.14
+Schneider National Inc.	SCNN	3603667	1075	16.5	0.46
+SLH Transport	SLHO	193595	1640	5.9	0.086
+Southeastern Freight Lines	SEFL	1021928.875	1650	3.2	0.06
+Superior Bulk Logistics Inc.	SUAH	231392.25	1480	10.9	0.086
+Swift Transportation	SWFT	3539464.14285714	1570	2	0.0115
+The Dependable Cos.	DPXI	272750	2250	23.5	1.025
+The Waggoners Trucking	WAGP	235876.5	1800	9.05	0.415
+TMC Transportation	TDED	403500	1670	5	0.2435
+TransAm Trucking Inc.	TAMI	285566.333333333	1540	2.2	0.055
+Transport America	EXTO	305182	2250	23.5	1.025
+TransX Group of Companies	TNXL	474920	1700	6.55	0.195
+Trimac Transportation	TSUH,TTOS	646420	1700	1.55	0.015
+U.S. Xpress Enterprises	USXI	1607729	1560	0.9	0.006
+UniGroup Inc.	AERM	1639140.5	2460	28.5	1.275
+United Road Services Inc.	URDS	393808	2032.5	9.05	0.33
+United Vision Logistics	DYNS	371285	1670	14	0.5375
+Universal Logistics Holdings	ULSV	1144708	1830	13.5	0.525
+UPS Inc.	UPSF	55322125	1830	8.5	0.525
+Werner Enterprises Inc.	WENP,WEND,WENL,WGLL,WENF,WMMD,WEDV,WERN,WVAS,WMMI,WVAD,WRBH	1976865.75	1480	0.9	0.026
+Western Express Inc.	WSXI	479339.375	1700	1.55	0.015
+Wheaton Van Lines	WHTN	232881.75	1550	13	0.42
+XPO Logistics	XPOL	10785600	2250	23.5	1.025
+YRC Worldwide Inc. 	RDWY	4857432.75	1675	15.5	0.46
